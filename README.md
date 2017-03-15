@@ -22,12 +22,12 @@ A resource list for learning .NET.
 
 ## Manuals
 * [Track Slides]() - Ongoing slide deck.
-* [HTML, CSS]() - Notes and code from Days 1 & 2.
+* [HTML](https://docs.google.com/document/d/1b9x-ZjPcNM0O2ph0FeF4jPOxoBBbz57HFgCl3pPJAOw/edit?usp=sharing) - Notes and code from Days 1 & 2.
+* [CSS]() - CSS notes and code.
 * [Git]() - Notes for working with Git.
 * [C# Fundamentals]() - Notes and code from Days 3-7.
-* [Bootstrap]() - An active walk through the Bootstrap Docs.
-* [Razor]() - Learning Razor Syntax.
-* [MVC]() - Learning MVC.
+* [Bootstrap](https://docs.google.com/document/d/1hUxtBVhe8IhICIVzs5ODl2XyIf-7eNRBS-NSIkQLA1Y/edit?usp=sharing) - An active walk through the Bootstrap Docs.
+* [MVC](https://docs.google.com/document/d/1AHfRLx1cRCbEDCTmpfWkdnKUWZMCdf197UrrLz66r-s/edit?usp=sharing) - Restaurant Rating for MVC walkthrough.
 
 ## StoreAppExample
 * [Store App Example Repo](https://github.com/jpauloconnor/SampleStoreApp) - Robot Store Example
@@ -42,3 +42,22 @@ A resource list for learning .NET.
 | Module 5 | [Main Section p.2](https://www.youtube.com/watch?v=XzvmpfKoaOk)   | 
 | Module 6 | [Footer](https://www.youtube.com/watch?v=qreQvkNz2fA&feature=youtu.be&hd=1) | 
 
+## Bootstrap
+* 
+
+## Razor
+* [MSN Docs](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor) - 2017 Documentation for Razor.
+
+## MVC Intro
+* [Restaurant Rating](https://docs.google.com/document/d/1AHfRLx1cRCbEDCTmpfWkdnKUWZMCdf197UrrLz66r-s/edit?usp=sharing) - Restaurant Rating for MVC walkthrough.
+
+
+## ElevenNote
+| Module        | Video       | Concept       |
+| ------------- |:-------------:|:-------------:|
+| [Module 1](https://docs.google.com/document/d/13LtRWjCzuGDEzmNYIq4BNEux_yop4UtFRnUXhpZ_bLY/edit?usp=sharing)  | [Video 1]()   | Project set up|
+| [Module 2](https://docs.google.com/document/d/1ef1YWbpZD9TTRDfKZSJYq1wgMTMM7w6dmXcnOdYFxG0/edit?usp=sharing)  | [Video 2]()   | Models |
+| [Module 3]()  | [Video 3](https://docs.google.com/document/d/1lDhljDzmxuJqrc4sr0-zAYLtbxgA3v2BlPwqWCVNdTk/edit?usp=sharing)  | |
+| [Module 4](https://docs.google.com/document/d/1lDhljDzmxuJqrc4sr0-zAYLtbxgA3v2BlPwqWCVNdTk/edit?usp=sharing)  | [Video 4]()  | Database Entity |
+| [Module 5]()  | [Video 5]()  | |
+| [Module 6]()  | [Video 6]()  | |
