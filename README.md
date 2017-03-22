@@ -61,3 +61,8 @@ A resource list for learning .NET.
 | [Module 4](https://docs.google.com/document/d/1lDhljDzmxuJqrc4sr0-zAYLtbxgA3v2BlPwqWCVNdTk/edit?usp=sharing)  | [Video 4]()  | Database Entity |
 | [Module 5](https://docs.google.com/document/d/1b5jZy-NZk8moDa4LNg76-89MhL0pYPbz7U4zVVbM-No/edit?usp=sharing)  | [Video 5]()  | |
 | [Module 6]()  | [Video 6]()  | |
+
+## C#
+
+## Git
+* [Git Cheat Sheet](https://docs.google.com/document/d/1TJrKonaIYeIgyxdr6SzaXtEzHuwo0OU8AS2tj70WxEU/edit?usp=sharing)
