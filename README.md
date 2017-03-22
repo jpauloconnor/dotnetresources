@@ -21,11 +21,11 @@ A resource list for learning .NET.
 * [Portfolio Assignment]()
 
 ## Manuals
-* [Track Slides]() - Ongoing slide deck.
-* [HTML](https://docs.google.com/document/d/1b9x-ZjPcNM0O2ph0FeF4jPOxoBBbz57HFgCl3pPJAOw/edit?usp=sharing) - Notes and code from Days 1 & 2.
+* [Track Slides](https://docs.google.com/presentation/d/1iXQikxeCRbA_tUEAkgrp85Mv-4lt00bX2LXmbOWFylU/edit?usp=sharing) - Ongoing slide deck.
+* [HTML](https://docs.google.com/document/d/1b9x-ZjPcNM0O2ph0FeF4jPOxoBBbz57HFgCl3pPJAOw/edit?usp=sharing) - Notes and code for Days 1 & 2.
 * [CSS]() - CSS notes and code.
 * [Git]() - Notes for working with Git.
-* [C# Fundamentals]() - Notes and code from Days 3-7.
+* [C# Fundamentals](https://docs.google.com/document/d/1NbxVaKnoSdY3YUqV81lmK3yh9uuSuLb-gK6rv9IPFS0/edit?usp=sharing) - Notes and code from Days 3-7.
 * [Bootstrap](https://docs.google.com/document/d/1hUxtBVhe8IhICIVzs5ODl2XyIf-7eNRBS-NSIkQLA1Y/edit?usp=sharing) - An active walk through the Bootstrap Docs.
 * [MVC](https://docs.google.com/document/d/1AHfRLx1cRCbEDCTmpfWkdnKUWZMCdf197UrrLz66r-s/edit?usp=sharing) - Restaurant Rating for MVC walkthrough.
 
@@ -59,5 +59,5 @@ A resource list for learning .NET.
 | [Module 2](https://docs.google.com/document/d/1ef1YWbpZD9TTRDfKZSJYq1wgMTMM7w6dmXcnOdYFxG0/edit?usp=sharing)  | [Video 2]()   | Models |
 | [Module 3]()  | [Video 3](https://docs.google.com/document/d/1lDhljDzmxuJqrc4sr0-zAYLtbxgA3v2BlPwqWCVNdTk/edit?usp=sharing)  | |
 | [Module 4](https://docs.google.com/document/d/1lDhljDzmxuJqrc4sr0-zAYLtbxgA3v2BlPwqWCVNdTk/edit?usp=sharing)  | [Video 4]()  | Database Entity |
-| [Module 5]()  | [Video 5]()  | |
+| [Module 5](https://docs.google.com/document/d/1b5jZy-NZk8moDa4LNg76-89MhL0pYPbz7U4zVVbM-No/edit?usp=sharing)  | [Video 5]()  | |
 | [Module 6]()  | [Video 6]()  | |
