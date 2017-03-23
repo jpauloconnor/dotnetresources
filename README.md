@@ -17,7 +17,7 @@ A resource list for learning .NET.
 
 ## Assignments
 * [Store App Assignment](https://docs.google.com/document/d/1u-GN9Jh1kThcTJLgjX1vHCg1NXGevBMvVLCVPFRaMQ4/edit?usp=sharing) - Store App Assignment
-* [C# Library]() - C# Library
+* [C# Library](https://docs.google.com/document/d/1bKUUPx8NeXYFNyfRWnqXAV1bO9wFyfZ-9IcEdQtggbk/edit?usp=sharing) - C# Library
 * [Portfolio Assignment]()
 
 ## Manuals
