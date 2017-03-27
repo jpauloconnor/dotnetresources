@@ -26,7 +26,7 @@ A resource list for learning .NET.
 * [CSS]() - CSS notes and code.
 * [Git]() - Notes for working with Git.
 * [C# Fundamentals](https://docs.google.com/document/d/1NbxVaKnoSdY3YUqV81lmK3yh9uuSuLb-gK6rv9IPFS0/edit?usp=sharing) - Notes and code from Days 3-7.
-* [Bootstrap](https://docs.google.com/document/d/1hUxtBVhe8IhICIVzs5ODl2XyIf-7eNRBS-NSIkQLA1Y/edit?usp=sharing) - An active walk through the Bootstrap Docs.
+* [Bootstrap](https://docs.google.com/document/d/1x4vDiEeQA7xERpT351qt_FPB75EuRN6oK6nT3neqL8o/edit?usp=sharing) - An active walk through the Bootstrap Docs.
 * [MVC](https://docs.google.com/document/d/1AHfRLx1cRCbEDCTmpfWkdnKUWZMCdf197UrrLz66r-s/edit?usp=sharing) - Restaurant Rating for MVC walkthrough.
 
 ## StoreAppExample
@@ -66,3 +66,9 @@ A resource list for learning .NET.
 
 ## Git
 * [Git Cheat Sheet](https://docs.google.com/document/d/1TJrKonaIYeIgyxdr6SzaXtEzHuwo0OU8AS2tj70WxEU/edit?usp=sharing)
+
+
+## Meetups
+* [Indy Artisans](https://indysa.org/) - Indy Software Artisans
+* [Indy .NET  Consortium](https://www.meetup.com/Indy-NET-Consortium/) - Indy .NET Consortium
+
