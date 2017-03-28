@@ -24,7 +24,7 @@ A resource list for learning .NET.
 * [Track Slides](https://docs.google.com/presentation/d/1iXQikxeCRbA_tUEAkgrp85Mv-4lt00bX2LXmbOWFylU/edit?usp=sharing) - Ongoing slide deck.
 * [HTML](https://docs.google.com/document/d/1b9x-ZjPcNM0O2ph0FeF4jPOxoBBbz57HFgCl3pPJAOw/edit?usp=sharing) - Notes and code for Days 1 & 2.
 * [CSS]() - CSS notes and code.
-* [Git]() - Notes for working with Git.
+* [Git](https://docs.google.com/document/d/1TJrKonaIYeIgyxdr6SzaXtEzHuwo0OU8AS2tj70WxEU/edit?usp=sharing) - Notes for working with Git.
 * [C# Fundamentals](https://docs.google.com/document/d/1NbxVaKnoSdY3YUqV81lmK3yh9uuSuLb-gK6rv9IPFS0/edit?usp=sharing) - Notes and code from Days 3-7.
 * [Bootstrap](https://docs.google.com/document/d/1x4vDiEeQA7xERpT351qt_FPB75EuRN6oK6nT3neqL8o/edit?usp=sharing) - An active walk through the Bootstrap Docs.
 * [MVC](https://docs.google.com/document/d/1AHfRLx1cRCbEDCTmpfWkdnKUWZMCdf197UrrLz66r-s/edit?usp=sharing) - Restaurant Rating for MVC walkthrough.
@@ -43,7 +43,8 @@ A resource list for learning .NET.
 | Module 6 | [Footer](https://www.youtube.com/watch?v=qreQvkNz2fA&feature=youtu.be&hd=1) | 
 
 ## Bootstrap
-* 
+* [Bootstrap Docs](http://getbootstrap.com/) - Official Bootstrap Docs.
+* [Bootstrap Templates](https://startbootstrap.com/) - Bootstrap Templates
 
 ## Razor
 * [MSN Docs](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor) - 2017 Documentation for Razor.
@@ -51,6 +52,8 @@ A resource list for learning .NET.
 ## MVC Intro
 * [Restaurant Rating](https://docs.google.com/document/d/1AHfRLx1cRCbEDCTmpfWkdnKUWZMCdf197UrrLz66r-s/edit?usp=sharing) - Restaurant Rating for MVC walkthrough.
 
+## CSharpFundamentals
+* [C Sharp Fundamentals](https://github.com/jpauloconnor/CSharpFundamentals) - Repo for C# Fundamentals
 
 ## ElevenNote
 | Module        | Video       | Concept       |
