@@ -45,6 +45,8 @@ A resource list for learning .NET.
 ## Bootstrap
 * [Bootstrap Docs](http://getbootstrap.com/) - Official Bootstrap Docs.
 * [Bootstrap Templates](https://startbootstrap.com/) - Bootstrap Templates
+* [Bootsnip](http://bootsnipp.com/) - Bootstrap chunks
+
 
 ## Razor
 * [MSN Docs](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor) - 2017 Documentation for Razor.
@@ -55,20 +57,53 @@ A resource list for learning .NET.
 ## CSharpFundamentals
 * [C Sharp Fundamentals](https://github.com/jpauloconnor/CSharpFundamentals) - Repo for C# Fundamentals
 
-## ElevenNote
-| Module        | Video       | Concept       |
-| ------------- |:-------------:|:-------------:|
-| [Module 1](https://docs.google.com/document/d/13LtRWjCzuGDEzmNYIq4BNEux_yop4UtFRnUXhpZ_bLY/edit?usp=sharing)  | [Video 1]()   | Project set up|
-| [Module 2](https://docs.google.com/document/d/1ef1YWbpZD9TTRDfKZSJYq1wgMTMM7w6dmXcnOdYFxG0/edit?usp=sharing)  | [Video 2]()   | Models |
-| [Module 3]()  | [Video 3](https://docs.google.com/document/d/1lDhljDzmxuJqrc4sr0-zAYLtbxgA3v2BlPwqWCVNdTk/edit?usp=sharing)  | |
-| [Module 4](https://docs.google.com/document/d/1lDhljDzmxuJqrc4sr0-zAYLtbxgA3v2BlPwqWCVNdTk/edit?usp=sharing)  | [Video 4]()  | Database Entity |
-| [Module 5](https://docs.google.com/document/d/1b5jZy-NZk8moDa4LNg76-89MhL0pYPbz7U4zVVbM-No/edit?usp=sharing)  | [Video 5]()  | |
-| [Module 6]()  | [Video 6]()  | |
+
 
 ## C#
 
 ## Git
 * [Git Cheat Sheet](https://docs.google.com/document/d/1TJrKonaIYeIgyxdr6SzaXtEzHuwo0OU8AS2tj70WxEU/edit?usp=sharing)
+
+
+## ElevenNote
+| Module        | Video       | Concept       |
+| ------------- |:-------------:|:-------------:|
+| [Module 1](https://docs.google.com/document/d/13LtRWjCzuGDEzmNYIq4BNEux_yop4UtFRnUXhpZ_bLY/edit?usp=sharing)  | [Video 1]()   | |
+| [Module 2](https://docs.google.com/document/d/1ef1YWbpZD9TTRDfKZSJYq1wgMTMM7w6dmXcnOdYFxG0/edit?usp=sharing)  | [Video 2]()   | |
+| [Module 3](https://docs.google.com/document/d/13Sm_IUXUIwKhWvyxj3jRfdlzQyTO1iLkjHwWPGnvN8E/edit?usp=sharing)  | [Video 3]()  | |
+| [Module 4](https://docs.google.com/document/d/1KsqMpLrpgMy5L6jjKLak324OoJYKMCWQVDWhpgBKU5Q/edit?usp=sharing)  | [Video 4]()  | |
+| [Module 5](https://docs.google.com/document/d/1BstX6Qn-Y-rvSs0puYpafRC14Y1k8040sixfwXh7l2o/edit?usp=sharing)  | [Video 5]()  | |
+| [Module 6](https://docs.google.com/document/d/1m9Ywq0z3Lcc8vXTykJL5Ohf3tsay4mASaDfDAgkQoK4/edit?usp=sharing)  | [Video 6]()  | |
+| [Module 7](https://docs.google.com/document/d/12IIzS-Uot_KUM3bNlYE7yQBmlda4wPphPxyCOmLFecs/edit?usp=sharing)  | [Video 7]()  | |
+| [Module 8](https://docs.google.com/document/d/1-ZeGsdB9KcoRRy-O9zAWAY4-DOvwoAm_Kb4SZWHVKOA/edit?usp=sharing)  | [Video 8]()  | |
+| [Module 9](https://docs.google.com/document/d/1qwA9zt_IrkisZl9gqznGeS4URk3T5LAXVhbFENZwVKs/edit?usp=sharing)  | [Video 9]()  | |
+| [Module 10](https://docs.google.com/document/d/1smUwrPh47Edm5BbfNYgWlNUxYXCMGrHSZWWiL83vWN8/edit?usp=sharing)  | [Video 10]()  | |
+| [Module 11](https://docs.google.com/document/d/1ALUHgebMKHYhd40bC_-dtXid5GpG_XKyx8n2iX6ESqs/edit?usp=sharing)  | [Video 11]()  | |
+
+
+## Store App Assignment
+* [Contoso](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application) - Contoso Application Homework for studying data models, migrations, and MVC in general.
+* [StoreAppAssignmentSheet](https://docs.google.com/document/d/19RNn2aezriLBEfYeLzjN-lMfIlTYOkvaSYF54FLxNRM/edit?usp=sharing) - Simple store assignment sheet and screenshots.
+* [StoreAppExample](https://github.com/jpauloconnor/DotNet-202-StoreApp-Example) - Simple store app example without Authentication.
+
+
+## ElevenNote - Mobile
+* [XamarinSetup](https://docs.google.com/document/d/1_fvVASBTLY5i8iMiPnD2A9R3mo2ExX50KOuQpI2tqs4/edit?usp=sharing) - Simple store app example without Authentication.
+
+
+| Module        | Video       | Concept       |
+| ------------- |:-------------:|:-------------:|
+| [Module 1](https://docs.google.com/document/d/13LtRWjCzuGDEzmNYIq4BNEux_yop4UtFRnUXhpZ_bLY/edit?usp=sharing)  | [Video 1]()   | |
+| [Module 2](https://docs.google.com/document/d/1ef1YWbpZD9TTRDfKZSJYq1wgMTMM7w6dmXcnOdYFxG0/edit?usp=sharing)  | [Video 2]()   | |
+| [Module 3](https://docs.google.com/document/d/13Sm_IUXUIwKhWvyxj3jRfdlzQyTO1iLkjHwWPGnvN8E/edit?usp=sharing)  | [Video 3]()  | |
+| [Module 4](https://docs.google.com/document/d/1KsqMpLrpgMy5L6jjKLak324OoJYKMCWQVDWhpgBKU5Q/edit?usp=sharing)  | [Video 4]()  | |
+| [Module 5](https://docs.google.com/document/d/1BstX6Qn-Y-rvSs0puYpafRC14Y1k8040sixfwXh7l2o/edit?usp=sharing)  | [Video 5]()  | |
+| [Module 6](https://docs.google.com/document/d/1m9Ywq0z3Lcc8vXTykJL5Ohf3tsay4mASaDfDAgkQoK4/edit?usp=sharing)  | [Video 6]()  | |
+| [Module 7](https://docs.google.com/document/d/12IIzS-Uot_KUM3bNlYE7yQBmlda4wPphPxyCOmLFecs/edit?usp=sharing)  | [Video 7]()  | |
+| [Module 8](https://docs.google.com/document/d/1-ZeGsdB9KcoRRy-O9zAWAY4-DOvwoAm_Kb4SZWHVKOA/edit?usp=sharing)  | [Video 8]()  | |
+| [Module 9](https://docs.google.com/document/d/1qwA9zt_IrkisZl9gqznGeS4URk3T5LAXVhbFENZwVKs/edit?usp=sharing)  | [Video 9]()  | |
+| [Module 10](https://docs.google.com/document/d/1smUwrPh47Edm5BbfNYgWlNUxYXCMGrHSZWWiL83vWN8/edit?usp=sharing)  | [Video 10]()  | |
+| [Module 11](https://docs.google.com/document/d/1ALUHgebMKHYhd40bC_-dtXid5GpG_XKyx8n2iX6ESqs/edit?usp=sharing)  | [Video 11]()  | |
 
 
 ## Meetups
