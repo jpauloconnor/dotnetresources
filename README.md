@@ -42,7 +42,7 @@ A resource list for learning .NET.
 | Module 5 | [Main Section p.2](https://www.youtube.com/watch?v=XzvmpfKoaOk)   | 
 | Module 6 | [Footer](https://www.youtube.com/watch?v=qreQvkNz2fA&feature=youtu.be&hd=1) | 
 
-## Bootstrap
+## Bootstrap Resources
 * [Bootstrap Docs](http://getbootstrap.com/) - Official Bootstrap Docs.
 * [Bootstrap Templates](https://startbootstrap.com/) - Bootstrap Templates
 * [Bootsnip](http://bootsnipp.com/) - Bootstrap chunks
@@ -98,7 +98,7 @@ A resource list for learning .NET.
 
 | Module        | Video       | Concept       |
 | ------------- |:-------------:|:-------------:|
-* [XamarinSetup](https://docs.google.com/document/d/1_fvVASBTLY5i8iMiPnD2A9R3mo2ExX50KOuQpI2tqs4/edit?usp=sharing) - Xamarin setup in visual studio.
+| [XamarinSetup](https://docs.google.com/document/d/1_fvVASBTLY5i8iMiPnD2A9R3mo2ExX50KOuQpI2tqs4/edit?usp=sharing) Xamarin setup in visual studio.| [Setup Video]()   | With Troubleshooting |
 | [Module 1](https://docs.google.com/document/d/1ywYRF9ONydzqd9PQZnoHOxnCNBNYaNWQufUhZsncu6M/edit?usp=sharing)  | [Video 1]()   | MVC Review - Walkthrough |
 | [Module 2]()  | [Video 2]()   | |
 | [Module 3]()  | [Video 3]()  | |
@@ -117,12 +117,16 @@ A resource list for learning .NET.
 | [Inspiration](http://openlightgroup.com/Blog/TabId/58/PostId/189/UserRolesAdministration.aspx)  | [Video 1]()  | This tutorial was very helpful in giving us some ideas for setting up an admin page.|
 | [Module 1](https://docs.google.com/document/d/1e7RAPDewb0SJlexMSSyAMMIqWuOpp9uW8T1TO12uOAs/edit?usp=sharing)  | [Video 1]()  | Project set up|
 | [Module 2](https://docs.google.com/document/d/1OypDXgdLUJEHgAf1Yk5QtWQN5zk8KxCwdavCDwlhdaI/edit?usp=sharing)  | [Video 2]()  | View All Roles |
-| [Module 3]()  | [Video 3]()  | |
-| [Module 4]()  | [Video 4]()  | |
-| [Module 5]()  | [Video 5]()  | |
-| [Module 6]()  | [Video 6]()  | |
-| [Module 7]()  | [Video 7]()  | |
-| [Module 8]()  | [Video 8]()  | |
+| [Module 3](https://docs.google.com/document/d/1yVsthn1LavuyFNmMRzWj-82QD6Ft8CoSgG4GfD4Ppcs/edit?usp=sharing)  | [Video 3]()  | |
+| [Module 4](https://docs.google.com/document/d/1YOwP2pswc-h61YyCtNPdxmLVt1APWbkpJDy-imfMvGE/edit?usp=sharing)  | [Video 4]()  | |
+| [Module 5](https://docs.google.com/document/d/1BAkSbigNvePBHwOGhp-NZ5RXvkxa1xc5wR1MirjlVOE/edit?usp=sharing)  | [Video 5]()  | |
+| [Module 6](https://docs.google.com/document/d/1AY5G8h7YlzK89NKmPFYHZaZCpM1U0fofGVJJMQFUBsQ/edit?usp=sharing)  | [Video 6]()  | |
+| [Module 7](https://docs.google.com/document/d/15_TuoZkBVrDWdDrdLabfOEtEh4UHMEgH8MmGS-FxNRc/edit?usp=sharing)  | [Video 7]()  | |
+| [Module 8](https://docs.google.com/document/d/1Kz9_U6t38G9EW0Cry_xnHWRcx78rdVryGfgEBTrzxmo/edit?usp=sharing)  | [Video 8]()  | |
+| [Module 9](https://docs.google.com/document/d/1xNcxJ6sGvhmboWfKGhEmjIEGVu_vJAHiSYHbNXOFeO4/edit?usp=sharing)  | [Video 9]()  | |
+| [Module 10](https://docs.google.com/document/d/1y56q7dxHiV8-zZvj0KY041Xnew4THqNzssTgJTn2KQ8/edit?usp=sharing)  | [Video 10]()  | |
+
+
 
 ## Meetups
 * [Indy Artisans](https://indysa.org/) - Indy Software Artisans
