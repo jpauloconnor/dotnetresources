@@ -95,7 +95,7 @@ A resource list for learning .NET.
 | [Module 3](https://docs.google.com/document/d/1ZpDJ5aCnmRZ0fHnBDumD5RWfNHIGi9oS52UlGC380Ow/edit?usp=sharing)  | [Video 3]()  | GET method |
 | [Module 4](https://docs.google.com/document/d/1d-hktUZWW5rucKqlhh1B2UCowmejBrlnZgL_g7eLR_8/edit?usp=sharing)  | [Video 4]()  | Login Test |
 | [Module 5](https://docs.google.com/document/d/14IjoMeIGdBuj3CIHRjA5GIEF9mSSO5ELGndBVEtRwrw/edit?usp=sharing)  | [Video 5]()  | NotesController |
-| [Module 6](https://docs.google.com/document/d/1ywYRF9ONydzqd9PQZnoHOxnCNBNYaNWQufUhZsncu6M/edit?usp=sharing)  | [Video 6]()  | |
+| [Module 6](https://docs.google.com/document/d/1KjegkUpDVVAmnQAExeoLZmCKcu3dYGdR-ntOSJRLE0g/edit?usp=sharing)  | [Video 6]()  | Swagger |
 
 ## ElevenNote - Mobile App
 
