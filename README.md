@@ -75,7 +75,7 @@ A resource list for learning .NET.
 | ------------- |:-------------:|:-------------:|
 | [Module 0](https://docs.google.com/document/d/1ywYRF9ONydzqd9PQZnoHOxnCNBNYaNWQufUhZsncu6M/edit?usp=sharing) | [Module 0]()   | MVC Walkthrough/Class notes |
 | [Module 1](https://docs.google.com/document/d/13LtRWjCzuGDEzmNYIq4BNEux_yop4UtFRnUXhpZ_bLY/edit?usp=sharing)  | [Video 1](https://www.youtube.com/watch?v=Z4Wqq0lZ_8g&feature=youtu.be&hd=1)   | Project set up|
-| [Module 2](https://docs.google.com/document/d/1ef1YWbpZD9TTRDfKZSJYq1wgMTMM7w6dmXcnOdYFxG0/edit?usp=sharing)  | [Video 2]()   | |
+| [Module 2](https://docs.google.com/document/d/1ef1YWbpZD9TTRDfKZSJYq1wgMTMM7w6dmXcnOdYFxG0/edit?usp=sharing)  | [Video 2]()  | |
 | [Module 3](https://docs.google.com/document/d/13Sm_IUXUIwKhWvyxj3jRfdlzQyTO1iLkjHwWPGnvN8E/edit?usp=sharing)  | [Video 3]()  | |
 | [Module 4](https://docs.google.com/document/d/1KsqMpLrpgMy5L6jjKLak324OoJYKMCWQVDWhpgBKU5Q/edit?usp=sharing)  | [Video 4]()  | |
 | [Module 5](https://docs.google.com/document/d/1BstX6Qn-Y-rvSs0puYpafRC14Y1k8040sixfwXh7l2o/edit?usp=sharing)  | [Video 5]()  | |
@@ -83,17 +83,19 @@ A resource list for learning .NET.
 | [Module 7](https://docs.google.com/document/d/12IIzS-Uot_KUM3bNlYE7yQBmlda4wPphPxyCOmLFecs/edit?usp=sharing)  | [Video 7]()  | |
 | [Module 8](https://docs.google.com/document/d/1-ZeGsdB9KcoRRy-O9zAWAY4-DOvwoAm_Kb4SZWHVKOA/edit?usp=sharing)  | [Video 8]()  | |
 | [Module 9](https://docs.google.com/document/d/1qwA9zt_IrkisZl9gqznGeS4URk3T5LAXVhbFENZwVKs/edit?usp=sharing)  | [Video 9]()  | |
-| [Module 10](https://docs.google.com/document/d/1smUwrPh47Edm5BbfNYgWlNUxYXCMGrHSZWWiL83vWN8/edit?usp=sharing)  | [Video 10]()  | |
-| [Module 11](https://docs.google.com/document/d/1ALUHgebMKHYhd40bC_-dtXid5GpG_XKyx8n2iX6ESqs/edit?usp=sharing)  | [Video 11]()  | |
+| [Module 10](https://docs.google.com/document/d/1smUwrPh47Edm5BbfNYgWlNUxYXCMGrHSZWWiL83vWN8/edit?usp=sharing)  | [Video 10]() | |
+| [Module 11](https://docs.google.com/document/d/1ALUHgebMKHYhd40bC_-dtXid5GpG_XKyx8n2iX6ESqs/edit?usp=sharing)  | [Video 11]() | |
 
 
 ## ElevenNote - Web Api
+| Module        | Video       | Concept       |
+| ------------- |:-------------:|:-------------:|
 | [Module 1](https://docs.google.com/document/d/1xVJU0YAYWRGojqrFikhAS5ZZuRxUMftQnvCQ0l9_4T0/edit?usp=sharing)  | [Video 1]()  | Fiddler Intro |
 | [Module 2](https://docs.google.com/document/d/18FtGWPkiyl3o8Im3cJGuODez6Yj_qZbNf9gYCTw7fPM/edit?usp=sharing)  | [Video 2]()  | Web Api Set up |
-| [Module 3]https://docs.google.com/document/d/1ZpDJ5aCnmRZ0fHnBDumD5RWfNHIGi9oS52UlGC380Ow/edit?usp=sharing)  | [Video 3]()  | GET method |
-| [Module 4]()  | [Video 4]()  | |
-| [Module 5]()  | [Video 5]()  | |
-| [Module 6]()  | [Video 6]()  | |
+| [Module 3](https://docs.google.com/document/d/1ZpDJ5aCnmRZ0fHnBDumD5RWfNHIGi9oS52UlGC380Ow/edit?usp=sharing)  | [Video 3]()  | GET method |
+| [Module 4](https://docs.google.com/document/d/1d-hktUZWW5rucKqlhh1B2UCowmejBrlnZgL_g7eLR_8/edit?usp=sharing)  | [Video 4]()  | Login Test |
+| [Module 5](https://docs.google.com/document/d/14IjoMeIGdBuj3CIHRjA5GIEF9mSSO5ELGndBVEtRwrw/edit?usp=sharing)  | [Video 5]()  | NotesController |
+| [Module 6](https://docs.google.com/document/d/1ywYRF9ONydzqd9PQZnoHOxnCNBNYaNWQufUhZsncu6M/edit?usp=sharing)  | [Video 6]()  | |
 
 ## ElevenNote - Mobile App
 
