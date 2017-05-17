@@ -73,7 +73,7 @@ A resource list for learning .NET.
 ## ElevenNote - Web App
 | Module        | Video       | Concept       |
 | ------------- |:-------------:|:-------------:|
-| [Module 1](https://docs.google.com/document/d/13LtRWjCzuGDEzmNYIq4BNEux_yop4UtFRnUXhpZ_bLY/edit?usp=sharing){:target="_blank"}  | [Video 1](https://www.youtube.com/watch?v=Z4Wqq0lZ_8g&feature=youtu.be&hd=1)   | Project set up|
+| [Module 1](https://docs.google.com/document/d/13LtRWjCzuGDEzmNYIq4BNEux_yop4UtFRnUXhpZ_bLY/edit?usp=sharing)  | [Video 1](https://www.youtube.com/watch?v=Z4Wqq0lZ_8g&feature=youtu.be&hd=1)   | Project set up|
 | [Module 2](https://docs.google.com/document/d/1ef1YWbpZD9TTRDfKZSJYq1wgMTMM7w6dmXcnOdYFxG0/edit?usp=sharing)  | [Video 2](https://www.youtube.com/watch?v=PctwcFKw0-c&list=PLgk_cjZtlzqFY_IwFfcluRzI1j3g9dKow)  |Identity Model |
 | [Module 3](https://docs.google.com/document/d/13Sm_IUXUIwKhWvyxj3jRfdlzQyTO1iLkjHwWPGnvN8E/edit?usp=sharing)  | [Video 3](https://www.youtube.com/watch?v=mxGCz7YCLnc&index=1&list=PLgk_cjZtlzqFY_IwFfcluRzI1j3g9dKow)  | Database Setup|
 | [Module 4](https://docs.google.com/document/d/1KsqMpLrpgMy5L6jjKLak324OoJYKMCWQVDWhpgBKU5Q/edit?usp=sharing)  | [Video 4](https://www.youtube.com/watch?v=4c3ZcefBCjs&index=2&list=PLgk_cjZtlzqFY_IwFfcluRzI1j3g9dKow)  |NoteListItem |
