@@ -33,14 +33,14 @@ A resource list for learning .NET.
 * [Store App Example Repo](https://github.com/jpauloconnor/SampleStoreApp) - Robot Store Example
 
 #### Walkthrough Videos: This is a demo of the HTML Store App Example.
-| Module        | Video        | 
+| Module        | Video        |
 | ------------- |:-------------:|
-| Module 1 | [Header](https://www.youtube.com/watch?v=IfVjjpXb7qU&feature=youtu.be)   | 
-| Module 2 | [Banner](https://www.youtube.com/watch?v=6i-YKdON5iU&feature=youtu.be)   | 
-| Module 3 | [Aside](https://www.youtube.com/watch?v=-NZ2q03FotY&feature=youtu.be)   | 
-| Module 4 | [Main Section](https://www.youtube.com/watch?v=xyJ2X9V438w)   | 
-| Module 5 | [Main Section p.2](https://www.youtube.com/watch?v=XzvmpfKoaOk)   | 
-| Module 6 | [Footer](https://www.youtube.com/watch?v=qreQvkNz2fA&feature=youtu.be&hd=1) | 
+| Module 1 | [Header](https://www.youtube.com/watch?v=IfVjjpXb7qU&feature=youtu.be)   |
+| Module 2 | [Banner](https://www.youtube.com/watch?v=6i-YKdON5iU&feature=youtu.be)   |
+| Module 3 | [Aside](https://www.youtube.com/watch?v=-NZ2q03FotY&feature=youtu.be)   |
+| Module 4 | [Main Section](https://www.youtube.com/watch?v=xyJ2X9V438w)   |
+| Module 5 | [Main Section p.2](https://www.youtube.com/watch?v=XzvmpfKoaOk)   |
+| Module 6 | [Footer](https://www.youtube.com/watch?v=qreQvkNz2fA&feature=youtu.be&hd=1) |
 
 ## Bootstrap Resources
 * [Bootstrap Docs](http://getbootstrap.com/) - Official Bootstrap Docs.
@@ -75,16 +75,16 @@ A resource list for learning .NET.
 | ------------- |:-------------:|:-------------:|
 | [Module 0](https://docs.google.com/document/d/1ywYRF9ONydzqd9PQZnoHOxnCNBNYaNWQufUhZsncu6M/edit?usp=sharing) | [Module 0]()   | MVC Walkthrough/Class notes |
 | [Module 1](https://docs.google.com/document/d/13LtRWjCzuGDEzmNYIq4BNEux_yop4UtFRnUXhpZ_bLY/edit?usp=sharing)  | [Video 1](https://www.youtube.com/watch?v=Z4Wqq0lZ_8g&feature=youtu.be&hd=1)   | Project set up|
-| [Module 2](https://docs.google.com/document/d/1ef1YWbpZD9TTRDfKZSJYq1wgMTMM7w6dmXcnOdYFxG0/edit?usp=sharing)  | [Video 2]()  | |
-| [Module 3](https://docs.google.com/document/d/13Sm_IUXUIwKhWvyxj3jRfdlzQyTO1iLkjHwWPGnvN8E/edit?usp=sharing)  | [Video 3]()  | |
-| [Module 4](https://docs.google.com/document/d/1KsqMpLrpgMy5L6jjKLak324OoJYKMCWQVDWhpgBKU5Q/edit?usp=sharing)  | [Video 4]()  | |
-| [Module 5](https://docs.google.com/document/d/1BstX6Qn-Y-rvSs0puYpafRC14Y1k8040sixfwXh7l2o/edit?usp=sharing)  | [Video 5]()  | |
-| [Module 6](https://docs.google.com/document/d/1m9Ywq0z3Lcc8vXTykJL5Ohf3tsay4mASaDfDAgkQoK4/edit?usp=sharing)  | [Video 6]()  | |
-| [Module 7](https://docs.google.com/document/d/12IIzS-Uot_KUM3bNlYE7yQBmlda4wPphPxyCOmLFecs/edit?usp=sharing)  | [Video 7]()  | |
-| [Module 8](https://docs.google.com/document/d/1-ZeGsdB9KcoRRy-O9zAWAY4-DOvwoAm_Kb4SZWHVKOA/edit?usp=sharing)  | [Video 8]()  | |
-| [Module 9](https://docs.google.com/document/d/1qwA9zt_IrkisZl9gqznGeS4URk3T5LAXVhbFENZwVKs/edit?usp=sharing)  | [Video 9]()  | |
-| [Module 10](https://docs.google.com/document/d/1smUwrPh47Edm5BbfNYgWlNUxYXCMGrHSZWWiL83vWN8/edit?usp=sharing)  | [Video 10]() | |
-| [Module 11](https://docs.google.com/document/d/1ALUHgebMKHYhd40bC_-dtXid5GpG_XKyx8n2iX6ESqs/edit?usp=sharing)  | [Video 11]() | |
+| [Module 2](https://docs.google.com/document/d/1ef1YWbpZD9TTRDfKZSJYq1wgMTMM7w6dmXcnOdYFxG0/edit?usp=sharing)  | [Video 2](https://www.youtube.com/watch?v=PctwcFKw0-c&list=PLgk_cjZtlzqFY_IwFfcluRzI1j3g9dKow)  |Identity Model |
+| [Module 3](https://docs.google.com/document/d/13Sm_IUXUIwKhWvyxj3jRfdlzQyTO1iLkjHwWPGnvN8E/edit?usp=sharing)  | [Video 3](https://www.youtube.com/watch?v=EVcEOGFBzeQ&list=PLgk_cjZtlzqFY_IwFfcluRzI1j3g9d)  | DatabaseEntity|
+| [Module 4](https://docs.google.com/document/d/1KsqMpLrpgMy5L6jjKLak324OoJYKMCWQVDWhpgBKU5Q/edit?usp=sharing)  | [Video 4](https://www.youtube.com/watch?v=4c3ZcefBCjs&index=2&list=PLgk_cjZtlzqFY_IwFfcluRzI1j3g9dKow)  |NoteListItem |
+| [Module 5](https://docs.google.com/document/d/1BstX6Qn-Y-rvSs0puYpafRC14Y1k8040sixfwXh7l2o/edit?usp=sharing)  | [Video 5](https://www.youtube.com/watch?v=TAMV9ztJC7s&list=PLgk_cjZtlzqFY_IwFfcluRzI1j3g9dKow&index=3)  |NoteCreate |
+| [Module 6](https://docs.google.com/document/d/1m9Ywq0z3Lcc8vXTykJL5Ohf3tsay4mASaDfDAgkQoK4/edit?usp=sharing)  | [Video 6](https://www.youtube.com/watch?v=SzR_ZNtY8OU&list=PLgk_cjZtlzqFY_IwFfcluRzI1j3g9dKow&index=4)  |NoteService |
+| [Module 7](https://docs.google.com/document/d/12IIzS-Uot_KUM3bNlYE7yQBmlda4wPphPxyCOmLFecs/edit?usp=sharing)  | [Video 7](https://www.youtube.com/watch?v=YvxKovD8Xfo&index=5&list=PLgk_cjZtlzqFY_IwFfcluRzI1j3g9dKow)  |CreateRefactor |
+| [Module 8](https://docs.google.com/document/d/1-ZeGsdB9KcoRRy-O9zAWAY4-DOvwoAm_Kb4SZWHVKOA/edit?usp=sharing)  | [Video 8](https://www.youtube.com/watch?v=pK0vIAAvg-Q&list=PLgk_cjZtlzqFY_IwFfcluRzI1j3g9dKow&index=6)  |NoteDetail |
+| [Module 9](https://docs.google.com/document/d/1qwA9zt_IrkisZl9gqznGeS4URk3T5LAXVhbFENZwVKs/edit?usp=sharing)  | [Video 9](https://www.youtube.com/watch?v=MVarDHI4AMU&list=PLgk_cjZtlzqFY_IwFfcluRzI1j3g9dKow&index=7)  |NoteEdit |
+| [Module 10](https://docs.google.com/document/d/1smUwrPh47Edm5BbfNYgWlNUxYXCMGrHSZWWiL83vWN8/edit?usp=sharing)  | [Video 10](https://www.youtube.com/watch?v=ud6eL15h8p4&index=8&list=PLgk_cjZtlzqFY_IwFfcluRzI1j3g9dKow) |NoteDelete |
+| [Module 11](https://docs.google.com/document/d/1ALUHgebMKHYhd40bC_-dtXid5GpG_XKyx8n2iX6ESqs/edit?usp=sharing)  | [Video 11](https://www.youtube.com/watch?v=EVcEOGFBzeQ&list=PLgk_cjZtlzqFY_IwFfcluRzI1j3g9dKow&index=9) |DateChanges |
 
 
 ## ElevenNote - Web Api
@@ -134,4 +134,3 @@ A resource list for learning .NET.
 ## Meetups
 * [Indy Artisans](https://indysa.org/) - Indy Software Artisans
 * [Indy .NET  Consortium](https://www.meetup.com/Indy-NET-Consortium/) - Indy .NET Consortium
-
