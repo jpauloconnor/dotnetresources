@@ -89,12 +89,12 @@ A resource list for learning .NET.
 ## ElevenNote - Web Api
 | Module        | Video       | Concept       |
 | ------------- |:-------------:|:-------------:|
-| [Module 1](https://docs.google.com/document/d/1xVJU0YAYWRGojqrFikhAS5ZZuRxUMftQnvCQ0l9_4T0/edit?usp=sharing)  | [Video 1]()  | Fiddler Intro |
-| [Module 2](https://docs.google.com/document/d/18FtGWPkiyl3o8Im3cJGuODez6Yj_qZbNf9gYCTw7fPM/edit?usp=sharing)  | [Video 2]()  | Web Api Set up |
-| [Module 3](https://docs.google.com/document/d/1ZpDJ5aCnmRZ0fHnBDumD5RWfNHIGi9oS52UlGC380Ow/edit?usp=sharing)  | [Video 3]()  | GET method |
-| [Module 4](https://docs.google.com/document/d/1d-hktUZWW5rucKqlhh1B2UCowmejBrlnZgL_g7eLR_8/edit?usp=sharing)  | [Video 4]()  | Login Test |
-| [Module 5](https://docs.google.com/document/d/14IjoMeIGdBuj3CIHRjA5GIEF9mSSO5ELGndBVEtRwrw/edit?usp=sharing)  | [Video 5]()  | NotesController |
-| [Module 6](https://docs.google.com/document/d/1KjegkUpDVVAmnQAExeoLZmCKcu3dYGdR-ntOSJRLE0g/edit?usp=sharing)  | [Video 6]()  | Swagger |
+| [Module 1](https://docs.google.com/document/d/1xVJU0YAYWRGojqrFikhAS5ZZuRxUMftQnvCQ0l9_4T0/edit?usp=sharing)  | [Video 1](https://www.youtube.com/watch?v=a5zLOSomgXg&list=PLgk_cjZtlzqFhWQrg2Op_9wHeKpvorRDg&index=5)  | Fiddler Intro |
+| [Module 2](https://docs.google.com/document/d/18FtGWPkiyl3o8Im3cJGuODez6Yj_qZbNf9gYCTw7fPM/edit?usp=sharing)  | [Video 2](https://www.youtube.com/watch?v=nllsoCCht9o&index=2&list=PLgk_cjZtlzqFhWQrg2Op_9wHeKpvorRDg)  | Web Api Set up |
+| [Module 3](https://docs.google.com/document/d/1ZpDJ5aCnmRZ0fHnBDumD5RWfNHIGi9oS52UlGC380Ow/edit?usp=sharing)  | [Video 3](https://www.youtube.com/watch?v=FFBQ8wcQJEs&list=PLgk_cjZtlzqFhWQrg2Op_9wHeKpvorRDg&index=3)  | GET method |
+| [Module 4](https://docs.google.com/document/d/1d-hktUZWW5rucKqlhh1B2UCowmejBrlnZgL_g7eLR_8/edit?usp=sharing)  | [Video 4](https://www.youtube.com/watch?v=H7ZuFIL55WI&list=PLgk_cjZtlzqFhWQrg2Op_9wHeKpvorRDg&index=4)  | Login Test |
+| [Module 5](https://docs.google.com/document/d/14IjoMeIGdBuj3CIHRjA5GIEF9mSSO5ELGndBVEtRwrw/edit?usp=sharing)  | [Video 5](https://www.youtube.com/watch?v=H7ZuFIL55WI&index=4&list=PLgk_cjZtlzqFhWQrg2Op_9wHeKpvorRDg)  | NotesController |
+| [Module 6](https://docs.google.com/document/d/1KjegkUpDVVAmnQAExeoLZmCKcu3dYGdR-ntOSJRLE0g/edit?usp=sharing)  | [Video 6](https://www.youtube.com/watch?v=zX0Qk7w5yHQ&index=5&list=PLgk_cjZtlzqFhWQrg2Op_9wHeKpvorRDg)  | Swagger |
 
 ## ElevenNote - Mobile App
 
